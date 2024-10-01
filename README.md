@@ -17,21 +17,21 @@ ________________________________________________________________________________
 
 ______________________________________________________________________________________________________________________
 
-whiteNeighboursCount = 4; 
-blackNeighboursCount = 4; 
-chanceWhite = 50; 
+whiteNeighboursCount = 4; |
+blackNeighboursCount = 4; |
+chanceWhite = 50; |
 ![image](https://github.com/user-attachments/assets/7cc6fcdf-7d5a-4860-8f59-55689cf46bf1)
 
 ______________________________________________________________________________________________________________________
 
-whiteNeighboursCount = 4; 
-blackNeighboursCount = 5; 
-chanceWhite = 44; 
+whiteNeighboursCount = 4; |
+blackNeighboursCount = 5; |
+chanceWhite = 44; |
 ![image](https://github.com/user-attachments/assets/94f0cba7-f057-459d-b618-e27271ef966d)
 
 ______________________________________________________________________________________________________________________
 
-whiteNeighboursCount = 3; 
-blackNeighboursCount = 4; 
-chanceWhite = 35; 
+whiteNeighboursCount = 3; |
+blackNeighboursCount = 4; |
+chanceWhite = 35; |
 ![image](https://github.com/user-attachments/assets/c2348b1a-fdb2-4154-90e5-8d49e51e3069)
